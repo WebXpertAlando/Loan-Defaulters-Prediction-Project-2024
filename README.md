@@ -23,5 +23,13 @@ Loan defaults pose a significant risk to financial institutions, leading to loss
 
 ![Correlation](https://github.com/user-attachments/assets/d1aeed32-d21a-4627-a9d5-02e100ce52a6)
 
-There was no correlation between the feature and the target
+There was no significant correlation found between the features and the target.
+
+# KBEST AND CHI2 FEATURE SELECTION
+
+![Chi2   KBest](https://github.com/user-attachments/assets/cd1019cb-eda7-431c-bbd1-813f8d1535e2)
+
+1 . **Age** was the most significant feature in our model. This means that most young people will tend to default the loan as compared to older people. 
+
+2. Another factor was **InterestRate.** Most people with high interest rate will probably default because they will feel the pinch of paying high rates as compraed to those who have taken lesser loan amount. 
 
